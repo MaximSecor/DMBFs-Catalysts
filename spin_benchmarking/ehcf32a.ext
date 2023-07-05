@@ -1,0 +1,77 @@
+** Version 3.2a Parameters (1st order corrections) **
+############## Racah parameters for the free M(II) ions (Lever-1984)
+Ti  BRAC   718
+Ti  CRAC  2629
+V   BRAC   766
+V   CRAC  2855
+Cr  BRAC   830
+Cr  CRAC  3430
+Mn  BRAC   960
+Mn  CRAC  3325
+Fe  BRAC  1058
+Fe  CRAC  3901
+Co  BRAC   971
+Co  CRAC  4366
+Ni  BRAC  1041
+Ni  CRAC  4831
+#############################################
+Co  BETADL N  1.0
+Co  BETADL C  1.0
+#############################################
+Mn  BETADL N  1.0
+Mn  BETADL C  1.0
+#############################################
+Fe  ZS   1.380
+Fe  ZSE  1.367
+Fe  ZP   1.100
+Fe  ZPE  0.980
+Fe  ZD   2.720
+Fe  ZDE  2.780
+Fe  KSI  0.110
+Fe  ALPHA  H   0.252
+H   ALPHA  Fe  0.252
+Fe  ALPHA  C   0.500
+C   ALPHA  Fe  0.500
+Fe  ALPHA  N   0.500
+N   ALPHA  Fe  0.500
+Fe  ALPHA  O   0.293
+O   ALPHA  Fe  0.293
+Fe  ALPHA  F   0.240
+F   ALPHA  Fe  0.240
+Fe  ALPHA  S   0.193
+S   ALPHA  Fe  0.193
+Fe  ALPHA  Cl  0.140
+Cl  ALPHA  Fe  0.140
+#############################################
+Ni  ZS   1.622
+Ni  ZSE  1.600
+Ni  ZP   1.280
+Ni  ZPE  1.030
+Ni  ZD   3.160
+Ni  ZDE  3.140
+Ni  KSI  0.088
+Ni  KPI  0.040
+Ni  KDI  0.019
+Ni  FCP  306.24
+Ni  FCP2  37.05
+Ni  FCP3   4.109
+Ni  TAU1S 27.35
+Ni  TAU2S 11.56
+Ni  TAU3S  4.768
+Ni  ALPHA  H   0.020
+H   ALPHA  Ni  0.310
+Ni  ALPHA  C   0.300
+C   ALPHA  Ni  0.300
+Ni  ALPHA  N   0.060
+N   ALPHA  Ni  0.060
+Ni  ALPHAD N   0.540
+N   ALPHAD Ni  0.540
+Ni  ALPHA  O   0.148
+O   ALPHA  Ni  0.148
+Ni  ALPHAD O   0.460
+O   ALPHAD Ni  0.460
+Ni  ALPHA  F   0.240
+F   ALPHA  Ni  0.240
+Ni  ALPHA  Cl  0.135
+Cl  ALPHA  Ni  0.135
+#############################################
